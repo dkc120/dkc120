@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/dilipku94695995" target="blank"><img src="https://img.shields.io/twitter/follow/dilipku94695995?logo=twitter&style=for-the-badge" alt="dilipku94695995" /></a> </p>
 
+- 🌱 I’m currently learning **Next.js**
+
+- 💬 Ask me about **MERN**
+
 - 📫 How to reach me **myesone180@gmail.com**
 
 ### Blogs posts
